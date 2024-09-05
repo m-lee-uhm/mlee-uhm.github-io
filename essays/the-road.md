@@ -5,10 +5,10 @@ image:
 title: "The Road"
 date: 2024-09-05
 published: true
-labels:
+labels
   - About Me
   - Learning
-summary: ?
+summary: "This is a paper about me, why I decided to persue computer science/software enginnering, and my goals for the future."
 ---
 # The Road
 ## Beginning of the Journey
