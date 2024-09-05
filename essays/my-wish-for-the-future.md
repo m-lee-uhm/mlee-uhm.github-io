@@ -2,13 +2,22 @@
 layout: project
 type: project
 image:
-title: "My Wish for the Future"
+title: "The Road"
 date: 2024-09-05
+published: true
 labels:
-  - IDK
-summary: My hopes and dreams
+  - About Me
+  - Learning
+summary: ?
 ---
-## Intro
-  Since the start of my software engineering journey, I always had one goal in mind. My goal was to become a data scientist. Now I know for some that sounds like the absolutely worst job to have, my friends surely did, but I don’t let that discourage me. Currently, I am in my third year as a student at the University of Hawaii at Manoa on my way to complete my undergraduate degree. Throughout my semesters as a student at UHM, I realized I have learned a lot of software engineering skills. I started from literally no knowledge about how to write code or how to go about solving complex problems, but I learned and developed some of the skills I need to thrive as a software engineer. However, I know that there is more to learn and experience.
-	I am now starting a software engineering class that I thought was going to only teach me about problems analysis and web design. However, I realized during the first day that I am going to develop more than just that. Based on how the class is structured, I need to learn how to communicate and network with my classmates. I grew up as a pretty introverted child and was always scared to talk to people first, but throughout the semester, I hope to learn how to be more confident and learn to express my ideas clearly. I hope that in the future I will be able to communicate with people better and learn how to express the ideas that I have.
-	I hope that in the near future I will be able to interact more with artificial intelligence and machine learning. Last year, I took an introductory course into machine learning and artificial intelligence and while it was hard, I found it to be interesting. A professor for a class that I am currently taking is actively encouraging us to use AI to help us since he believes that eventually we will need to be able to use them in the future. I totally agree with him since I believe that eventually AI will become something similar to the internet where we see it and interact with it everywhere. 
+# The Road
+## Beginning of the Journey
+	Growing up, I have always had an interest in video games. I saw life as one big video game that we were all playing in. To me, the world was one big locked map that was unlocked as you traversed the world. School was a place where I could progress my skill tree that would allow me to play the game a certain way. I remember applying for college and trying to figure out what I wanted to major in. This decision was one that was going to be significant as it was going to lock my build into place. I had a bunch of choices going through my mind at the time, “Should I be a doctor and make my mom proud? Or should I do engineering with my friends? But, if I choose engineering, what type of engineer should I be? Maybe I should major in math?” And then one option just stared at me. It was at that point that I decided to major in computer science. 
+
+	I quickly discovered that I was going to enjoy computer science and software engineering. I learned that I was finding fun in solving difficult problems and really liked to work with large amounts of data. I know for some that it sounds super boring, but I personally enjoy it; I think that it’s relaxing. The more that I progressed through the courses in university I found myself falling more and more in love with software engineering. Eventually, I started to watch software engineering videos on YouTube on a regular basis and my YouTube feed became infested with them. There’s no grand reason or significant experience that caused me to pursue computer science, I just found myself having fun.
+
+## Further Down the Road
+	Moving into the future, I aim to improve my skills with machine learning libraries like sklearn. I was exposed to it in one of my previous classes, but feel that I have just touched the iceberg for machine learning. I find it fascinating that computers are able to take data, analyze it, and produce new data that explains the data that it took in. I also seek to engage in internships and contribute to open-source projects. I know that I lack a lot of hands-on experience with programming. The only experience I have are only the assignments that were done in class, so I’m attempting to foster a deeper understanding of the software engineering practices. 
+
+## TL,DR
+	Basically, I find software engineering and computer science in general to be fun since I think of it as one big complex problem. I look forward to learning more about machine learning and want to experience real-world applications of what I learned in school.
