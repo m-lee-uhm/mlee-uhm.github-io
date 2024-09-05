@@ -1,8 +1,13 @@
 ---
+layout: essay
+type: essay
+image: 
+date: 2024-09-05
 published: true
 labels:
   - About Me
   - Learning
+summary: A short technical essay about why I'm persuding computer science/software engineering. This paper also includes what I want to do in the future.
 ---
 
 ## Beginning of the Journey
