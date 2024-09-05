@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Michael Lee",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "mlee31@hawaii.edu",
+    "phone": "808-451-4592",
+    "website": "https://mlee-uhm.github.io",
+    "summary": "I am studying for a B.S. in Computer Science with a specialization in Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mlee-uhm", "url": "https://github.com/mlee-uhm/" },
+      { "network": "linkedin", "username": "michael-lee-a072a4326/", "url": "https://www.linkedin.com/in/michael-lee-a072a4326/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Indoor Rock Climbing / Bouldering" },
+    { "name": "Data Analysis" },
+    { "name": "Software Engineering" },
+    { "name": "Game Development" },
   ],
   "skills": [
     {
