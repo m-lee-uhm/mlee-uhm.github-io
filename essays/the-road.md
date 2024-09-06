@@ -6,8 +6,7 @@ date: 2024-09-05
 published: true
 labels:
   - About Me
-  - Learning
-image: 
+  - Learning 
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/4d28d22706802247efcdfeb365569713.jpg">
 
