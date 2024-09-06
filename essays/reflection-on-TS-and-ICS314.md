@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "ICS314 Survival Guide (and Typescript)"
 date: 2024-09-05
 published: true
 labels:
