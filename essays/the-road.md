@@ -10,6 +10,7 @@ labels:
 image: 
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/4d28d22706802247efcdfeb365569713.jpg">
+
 ## Beginning of the Journey
   Growing up, I have always had an interest in video games. I saw life as one big video game that we were all playing in. To me, the world was one big locked map that was unlocked as you traversed the world. School was a place where I could progress my skill tree that would allow me to play the game a certain way. I remember applying for college and trying to figure out what I wanted to major in. This decision was one that was going to be significant as it was going to lock my build into place. I had a bunch of choices going through my mind at the time, “Should I be a doctor and make my mom proud? Or should I do engineering with my friends? But, if I choose engineering, what type of engineer should I be? Maybe I should major in math?” And then one option just stared at me. It was at that point that I decided to major in computer science. 
 
