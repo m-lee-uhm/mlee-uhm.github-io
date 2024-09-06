@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "ICS 314 and What to Expect"
+title: "ICS 314 and What to Expect from TS"
 date: 2024-09-05
 published: true
 labels:
