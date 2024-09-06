@@ -7,7 +7,7 @@
     "phone": "808-451-4592",
     "website": "https://mlee-uhm.github.io",
     "summary": "I am studying for a B.S. in Computer Science with a specialization in Data Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1458 Kuloko St.", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mlee-uhm", "url": "https://github.com/mlee-uhm/" },
       { "network": "linkedin", "username": "michael-lee-a072a4326/", "url": "https://www.linkedin.com/in/michael-lee-a072a4326/" },
