@@ -12,14 +12,22 @@ image:
 I first heard of Typescript being mentioned in a video about web development. At the time I had just started learning about and working with Java so the language looked familiar but different.
 
 ## Readability
-When I first took a glance at Typescript, I thought that I was reading Python. All that I knew at that time was that Python was a relatively easy language to pick up since it was easy to read, so you could see how I made that assumption when I saw variables being declared with “let”. I know now that Typescript and Python look completely different, at the time I believed that it was Python just because of how readable the code was. This is probably my favorite feature of this language, since it allows me to quickly read through the code and get a jist on what is happening.
-Ex.
+When I first took a glance at Typescript, I thought that I was reading Python. All that I knew at that time was that Python was a relatively easy language to pick up since it was easy to read, so you could see how I made that assumption when I saw variables being declared with “let”. I know now that Typescript and Python look completely different, at the time I believed that it was Python just because of how readable the code was. For example:
+```
+let name: number = "Michael";
+```
+For the line of code above, we could literally read it as is and it would mostly make sense. The confusing part of the syntax of Typescript is declaring types, but as long as we know what that looks likes, we can see the line of code above reads to "let name = Michael", or "let name be 'Michael'".
 
 ## Types
 Another feature of Typescript that I enjoy is that it has typing. Before learning about Typescript, I learned Javascript. While learning Javascript, I felt that it was weird compared to Java since it didn’t define variables when they were called. It always felt somewhat uncomfortable without being able to do that as I know I make silly mistakes at times. When I eventually progressed to Typescript I found that it allowed us to create variables with type restrictions, and felt relieved knowing that this feature would save my sanity one day. I do find it sometimes annoying to work with at times, but I think that the payoff is definitely worth it.
-Ex. 
+```
+const func(param1: number): string => {
+  return param1 + 3;
+};
+```
+I know the example code is quite silly but thanks to types, we can prevent ourselves from doing something that we didn't intend for the function to do.
 
-## Typescript so Far
+## Typescript as a Language
 So far I think Typescript is a fun language to use. I know that in the future I am going to need to use this language as I want to become a data scientist. To become a data scientist I will need to excel in using excel sheets and more importantly manipulate them so that I can get data. The cool thing about this is that you can use excel scripts to do this which are made in Typescript.
 
 ## The Class so Far
