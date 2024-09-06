@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "ICS314 Survival Guide (and Typescript)"
+title: "ICS 314 and What to Expect"
 date: 2024-09-05
 published: true
 labels:
   - Typescript
   - Athletic Software Engineering
-image:
+image: 
 ---
 I first heard of Typescript being mentioned in a video about web development. At the time I had just started learning about and working with Java so the language looked familiar but different.
 
