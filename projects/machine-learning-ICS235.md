@@ -11,6 +11,7 @@ label:
   - sk-learn
   - mathplot
   - numpy
+published: false
 summary: "A homework assignment I had for ICS235"
 ---
 
