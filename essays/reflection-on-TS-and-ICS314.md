@@ -21,7 +21,7 @@ For the line of code above, we could literally read it as is and it would mostly
 ## Types
 Another feature of Typescript that I enjoy is that it has typing. Before learning about Typescript, I learned Javascript. While learning Javascript, I felt that it was weird compared to Java since it didn’t define variables when they were called. It always felt somewhat uncomfortable without being able to do that as I know I make silly mistakes at times. When I eventually progressed to Typescript I found that it allowed us to create variables with type restrictions, and felt relieved knowing that this feature would save my sanity one day. I do find it sometimes annoying to work with at times, but I think that the payoff is definitely worth it.
 ```
-name = 31
+name = 31;
 ```
 Thanks to types, we can prevent ourselves from doing something that we didn't intend for the function to do, like changing my name into a number.
 
