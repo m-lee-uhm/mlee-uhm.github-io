@@ -7,8 +7,8 @@ published: true
 labels:
   - Typescript
   - Athletic Software Engineering
-image: <img width="200px" class="rounded float-start pe-4" src="../img/Typescript_logo_2020.svg.png">
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/Typescript_logo_2020.svg.png">
 I first heard of Typescript being mentioned in a video about web development. At the time I had just started learning about and working with Java so the language looked familiar but different.
 
 ## Readability
