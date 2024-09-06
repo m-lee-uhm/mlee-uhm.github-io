@@ -18,5 +18,5 @@ labels:
 ## Further Down the Road
   Moving into the future, I aim to improve my skills with machine learning libraries like sklearn. I was exposed to it in one of my previous classes, but feel that I have just touched the iceberg for machine learning. I find it fascinating that computers are able to take data, analyze it, and produce new data that explains the data that it took in. I also seek to engage in internships and contribute to open-source projects. I know that I lack a lot of hands-on experience with programming. The only experience I have are only the assignments that were done in class, so I’m attempting to foster a deeper understanding of the software engineering practices. 
 
-## TL,DR
+## TL;DR
   In short, I find software engineering and computer science in general to be fun since I think of it as one big complex problem. I look forward to learning more about machine learning and want to experience real-world applications of what I learned in school.
