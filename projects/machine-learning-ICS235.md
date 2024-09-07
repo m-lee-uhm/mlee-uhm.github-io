@@ -21,7 +21,7 @@ The goal of the assignment was to graph and group the data by their label:
 <image>
 
 I achieved this result by training a regression neural network with a two-neuron hidden layer in an unsupervised manner. Here's a diagram of what the neural network looks like:
-<image2>
+<img width="200px" class="rounded float-start pe-4" src="...img/machine-learning-ICS235/machine-learning-ICS235-result.png">
 
 From this project, I learned how to build a simple neural network. This neural network was quite simple as the only hidden layer of the network only had two neurons, but I learned how to build larger and more complex neural network. This project required me to learn how to effieciently read documentation. 
 
