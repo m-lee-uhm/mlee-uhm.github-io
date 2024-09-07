@@ -1,7 +1,7 @@
 ---
 layout: project
 style: project
-image:
+image: /img/machine-learning-ICS235/ml-project-cover.png
 title: 
 date: 2024-09-05
 label:
