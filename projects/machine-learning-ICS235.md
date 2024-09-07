@@ -18,10 +18,10 @@ summary: "A homework assignment I had for ICS235"
 This project was an assignment in ICS235 where I used machine learning to seperate and cluster data in an attempt to figure out different cancer types by looking at the gene expression level of a tissue. 
 
 The goal of the assignment was to graph and group the data by their label:
-<img width="99%" height ="99%" src="/img/machine-learning-ICS235/machine-learning-ICS235-result.png">
+<img width="100%" height ="100%" src="/img/machine-learning-ICS235/machine-learning-ICS235-result.png">
 
 I achieved this result by training a regression neural network with a two-neuron hidden layer in an unsupervised manner. Here's a diagram of what the neural network looks like:
-![A diagram of my neural network](/img/machine-learning-ICS235/autoencoder.png)
+<img width="100%" height ="100%" src="/img/machine-learning-ICS235/autoencoder.png">
 
 From this project, I learned how to build a simple neural network. This neural network was quite simple as the only hidden layer of the network only had two neurons, but I learned how to build larger and more complex neural network. This project required me to learn how to effieciently read documentation. 
 
