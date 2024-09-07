@@ -21,3 +21,9 @@ The goal of the assignment was to graph and group the data by their label:
 <image>
 
 I achieved this result by 
+
+Heres a snippet of the code I used:
+```
+
+```
+
