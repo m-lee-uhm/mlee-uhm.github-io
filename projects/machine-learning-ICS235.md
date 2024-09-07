@@ -4,6 +4,7 @@ style: project
 image: img/machine-learning-ICS235/ml-project-cover.png
 title: Finding Cancer Using Machine Learning
 date: 2024-09-05
+published: true
 label:
   - Machine Learning
   - Python
@@ -11,7 +12,6 @@ label:
   - sk-learn
   - mathplot
   - numpy
-published: true
 summary: "A homework assignment I had for ICS235"
 ---
 
