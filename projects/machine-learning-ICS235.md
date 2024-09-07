@@ -1,4 +1,4 @@
----
+  ---
 layout: project
 style: project
 image: img/machine-learning-ICS235/ml-project-cover.png
@@ -29,6 +29,22 @@ I was the person responsible for this whole project because it was a homework as
 
 Heres a snippet of the code I used:
 ```
+# Calculate the values based on the function h(x) = f(Wx+b)
+# f(x) returns x since the activation function was "identity"
+hidden_representation = np.matmul(X_scaled_tcga, tcga_mlp.coefs_[0]) + tcga_mlp.intercepts_[0]
+
+# Seperate data into two parts
+hidden_representation_X = hidden_representation[:,0]
+hidden_representation_y = hidden_representation[:,1]
+# Creat plot
+fig, ax = plt.subplots()
+for label in np.unique(y):
+    idx = np.where(y == label)
+    ax.scatter(hidden_representation_X[idx], hidden_representation_y[idx], c=color_dict[label], label=label)
+# Add legend and axis-labels
+ax.legend()
+plt.xlabel("Principal Component One")
+plt.ylabel("Principal Component Two")
 
 ```
 
