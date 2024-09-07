@@ -1,4 +1,4 @@
-  ---
+---
 layout: project
 style: project
 image: img/machine-learning-ICS235/ml-project-cover.png
@@ -11,7 +11,7 @@ label:
   - sk-learn
   - mathplot
   - numpy
-published: false
+published: true
 summary: "A homework assignment I had for ICS235"
 ---
 
