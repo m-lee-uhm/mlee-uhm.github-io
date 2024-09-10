@@ -1,13 +1,13 @@
 ---
 layout: project
-style: project
-image:
-title: Mini Java
+type: project
+image: img/machine-learning-ICS235/ml-project-cover.png
+title: "Mini Java"
 date: 2024-09-05
 published: true
-label:
+labels:
   - Java
-summary: “A homework assignment I had for ICS211”
+summary: "A homework assignment I had for ICS211 where I created a mini-version of Java."
 ---
 
 For this assignment, I had to create a program that could write Java code using the Java programming language. The program that I wrote did not have to create code that worked, however, it did need to create a random string of text in the Java syntax that looked like a Java program without the proper indentation and formatting. 
