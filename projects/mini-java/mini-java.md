@@ -4,7 +4,7 @@ style: project
 image:
 title: Mini Java
 date: 2024-09-05
-published: false
+published: true
 label:
   - Java
 summary: “A homework assignment I had for ICS211”
