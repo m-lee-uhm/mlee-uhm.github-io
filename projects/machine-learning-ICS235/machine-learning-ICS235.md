@@ -2,7 +2,7 @@
 layout: project
 style: project
 image: img/machine-learning-ICS235/ml-project-cover.png
-title: Finding Cancer Using Machine Learning
+title: "Finding Cancer Using Machine Learning"
 date: 2024-09-05
 published: true
 label:
