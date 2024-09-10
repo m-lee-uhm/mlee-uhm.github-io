@@ -1,4 +1,4 @@
-—
+---
 layout: project
 style: project
 image:
@@ -8,7 +8,7 @@ published: false
 label:
   - Java
 summary: “A homework assignment I had for ICS211”
-—
+---
 
 For this assignment, I had to create a program that could write Java code using the Java programming language. The program that I wrote did not have to create code that worked, however, it did need to create a random string of text in the Java syntax that looked like a Java program without the proper indentation and formatting. 
 
