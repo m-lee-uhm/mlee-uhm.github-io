@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/machine-learning-ICS235/ml-project-cover.png
+image: img/sudoku/sudoku-image.webp
 title: "Sudoku Solver"
 date: 2024-09-05
 published: true
