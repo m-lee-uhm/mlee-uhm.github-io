@@ -17,4 +17,4 @@ This purpose of this project was to create a program that could take a sudoku pr
 
 For this project, I implemented the fillSudoku method in the program which would attempt to solve the sudoku using brute force and testing each possible variation of the sudoku. To help with this, I created a helper method called possibleCellValues which would return the possible values that the cell could be. This way we could reduce the number of variations that I would need to test, since if I learn that a cell has zero possible values, then something is wrong and I can move on to the next possible solution.
 
-<link to proj>
+Here is a link to the source code if you wish to learn more about this project: <a href="https://github.com/mlee-uhm/mlee-uhm.github.io/tree/main/projects/sudoku/src"><i class="large github icon "></i>projects/sudoku/src</a>
