@@ -35,4 +35,4 @@ The purpose of this assignment was to practice implementing a class hierarchy in
 
 I was responsible for writing all the code in this project, however I did most of the work with my friends when developing this. We bounced ideas on how to implement this assignment and the benefits in creating our code a certain way. Eventually, I decided to implement my code the way I did, because it made the most sense to me and it best utilized class inheritance in Java. Our professor also included some base code that he wanted us to build upon which I used in this assignment.
 
-Here is a link to the source code for this project: <a href="https://github.com/mlee-uhm/mlee-uhm.github.io/tree/main/projects/mini-java/src"><i class="large github icon "></i>projects/mini-java/src</a>
+Here is a link to the source code for this project: [Mini-Java src](https://github.com/mlee-uhm/mlee-uhm.github.io/tree/main/projects/mini-java/src)
