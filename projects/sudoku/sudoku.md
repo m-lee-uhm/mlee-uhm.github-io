@@ -14,7 +14,7 @@ Sudoku is a puzzle where you attempt to fill out a 9x9 square made up in 3x3 squ
 
 <img width="30%" 
      height="30%" 
-     class="rounded mx-auto d-block"
+     class="mx-auto d-block"
      src="/img/sudoku/solved-sudoku-puzzle.png">
 
 This purpose of this project was to create a program that could take a sudoku problem as an input and solve it by testing each number from 1-9 and checking if that solution is a valid solution. If the solution is not valid, then continue to the next possible value for that cell. This assignment helped me understand how to work with other people when writing software and the importance of commenting our code. This is because for this project, our instructor created part of the code, which was included a method that checks if the solution is valid, along with a method that converts the data for in the sudoku puzzle into a readable string. He also included a program with sample sudokus to test my program with and validate that my program was correct. Everything provided to me was complex and taught me the importance of reading and understanding the code that was created by other people. I also know that I would have been confused on what each method was doing if it was not commented and learned the importance of commenting code.
