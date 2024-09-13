@@ -9,7 +9,7 @@ labels:
   - Questions
   - Answers
 ---
-<img width="200px" class="rounded float-start pe-4" src=".../img/smart-not-so-smart-questions/essay-img.webp">
+<img width="200px" class="rounded float-start pe-4" src="../img/smart-not-so-smart-questions/essay-img.webp">
 Stack overflow is a platform where developers can ask questions related to programming. I often found myself having at least one tab of stack overflow open when doing my homework, if I did not understand what was going on in my class. For example, this project<link> required me to code in python, since I was using sk-learn. I remember having many tabs of stack overflow open about the machine learning algorithm I was using, just so I could figure out how to properly implement it, and how to quickly get certain values I wanted. The questions that I had were often already answered on stack overflow, however sometimes you have a question that hasn’t been asked on stack overflow yet. Then you would want to ask your question in a way that allows you to properly get an answer. 
 
 ## Smart Way 
