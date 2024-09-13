@@ -17,7 +17,7 @@
     { "name": "Indoor Rock Climbing / Bouldering" },
     { "name": "Data Analysis" },
     { "name": "Software Engineering" },
-    { "name": "Game Development" },
+    { "name": "Machine Learning" },
   ],
   "skills": [
     {
@@ -47,7 +47,7 @@
       "website": "",
       "startDate": "2024-08-01",
       "endDate": "Present",
-      "summary": "An english and math tutor for elementry to middle school level students",
+      "summary": "An english and math tutor for elementry to high school level students",
       "highlights": [
         "Provided academic support and mentorship to students by fostering a collaborative learning environment",
         "Helped maintain the company by ensuring effiecent production of critical documents"
