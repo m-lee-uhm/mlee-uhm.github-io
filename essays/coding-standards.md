@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding standards"
+title: "Coding Standards"
 date: 2024-9-26
 published: True
 labels:
