@@ -8,7 +8,7 @@ labels:
   - Coding Standard
   - ESLint
 ---
-<img width= 200px height = 200px src="../img/coding-standards/coding-standard-meme.webp">
+<img width= 200px height = 200px class="rounded float-start pe-4" src="../img/coding-standards/coding-standard-meme.webp">
 
 # Standards
 As the world of coding languages quickly improves over time, our ability to write clean, well maintained, and high quality code becomes increasingly important. Writing code is no longer about being able to understand the code that you wrote yourself, but rather being able to understand and write code while working with you team. Now imagine everyone on the team wrote their code a different way. Nothing would ever get done, because they would be too busy trying to understand the code. This is where the importance of coding standards come in. Coding standards are important because it makes everyone code the same way, so that reading and understanding code is much easier to do.
